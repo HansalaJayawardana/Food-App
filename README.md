@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+Developed to practice best practices using Firebase real-time database and functions.
+Tech: Dart, Flutter, Firebase
+My Contribution: Create Seller & Admin Flow UIs, create Bottom Navigation Bar using Flutter, and create final report.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
